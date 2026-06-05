@@ -203,4 +203,3 @@
 <img src="https://komarev.com/ghpvc/?username=YousofEbrahimi&color=a78bfa&style=for-the-badge&label=Profile+Views" alt="Profile views">
 
 </div>
-`https://github.com/YousofEbrahimi`
