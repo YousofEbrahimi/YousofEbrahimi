@@ -80,8 +80,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 <br>
 
@@ -113,24 +111,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122017-3cc0e46c-f064-4424-8e50-431b29f24a80.gif" width="35"> Featured Project | پروژه شاخص
-
-<br>
-
-<a href="https://github.com/YousofEbrahimi/Aura-Music-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YousofEbrahimi&repo=Aura-Music-Player&theme=transparent&border_color=a78bfa&title_color=a78bfa&icon_color=fbbf24&text_color=f0eef5&bg_color=08070c" />
-</a>
-
-<br><br>
-
-> A modern music player with real-time visualizer, spinning vinyl animation, and built-in demo tracks — built with pure vanilla web technologies.
-
-> یک موزیک پلیر مدرن با ویژوالایزر زنده، انیمیشن وینیل و ترک‌های دمو — ساخته شده با تکنولوژی‌های خالص وب.
 
 ---
 
